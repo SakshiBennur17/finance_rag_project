@@ -1,0 +1,14 @@
+# Ignore Python virtual environments
+backend/venv/
+
+# Ignore node_modules for React
+frontend/node_modules/
+
+# Ignore environment variables
+backend/.env
+
+# Ignore Python cache files
+__pycache__/
+
+# Mac OS files
+.DS_Store
